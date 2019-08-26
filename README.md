@@ -1,40 +1,4 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
-</p>
-<h1 align="center">Fórum</h1>
-<p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
-
-> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
-
-_____
-
-<p align="center">
-  <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
-</p>
-
-_____
-
-## Propósito
-
-Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/693111161856921600) foi o gatilho que precisávamos.
-
-<img width="650" alt="Começo do Front-end BR" src="https://user-images.githubusercontent.com/3603793/58209958-7a5c2380-7cbe-11e9-8c7b-b1889eea9fe2.png">
-
-Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
-
-A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
-
-O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
-
-Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
-
-## Vantagens do GitHub
-
-* Espaço usado por quase todos os desenvolvedores
-* É uma rede social
-* A busca funciona muito bem
-* Escalável
-* Organizável
+[Fork do fórum @frontendbr, adaptado para turma de PTWD Ironhack]
 
 ## Diretrizes e Boas Práticas
 
@@ -181,4 +145,5 @@ Badge | Link | Participar
 - [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste Mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
+- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
